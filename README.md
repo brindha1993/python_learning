@@ -14,4 +14,4 @@ This section shows how to read and write CSV files using Python's `csv` module.
 ## Prerequisites
 - `requests`: For fetching web pages.
 - `BeautifulSoup` from `bs4`: For parsing HTML.
-- csv: For handling CSV files.
+- `csv`: For handling CSV files.
