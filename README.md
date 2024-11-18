@@ -23,9 +23,27 @@ This section covers key pandas DataFrame operations, including:
 
 These tasks provide a solid foundation for entry-level data manipulation in pandas.
 
-  
+# 4. Exploring Datasets with Pandas  
+
+This section covers essential dataset exploration and manipulation techniques using Pandas, including:  
+
+- Reading Excel files with `openpyxl`.  
+- Previewing data with `head()`, `tail()`, and `info()`.  
+- Exploring dataset structure: columns, index, and data types.  
+- Converting columns to lists using `tolist()`.  
+- Creating new columns for row-wise calculations.  
+- Renaming columns for clarity.  
+- Filtering and sorting data.  
+- Selecting data using `loc` (labels) and `iloc` (positions).  
+
+These tasks are fundamental for efficient data analysis using Pandas.
+
 ## Prerequisites
 - `requests`: For fetching web pages.
 - `BeautifulSoup` from `bs4`: For parsing HTML.
 - `csv`: For handling CSV files.
 - `pandas`: For handling and manipulating data structures.
+
+## Acknowledgments  
+Some of the datasets used in this project are sourced from **GitHub repositories** and the **IBM Courses**.  
+Special thanks to them for providing guidance and resources that greatly help in practice and learning.
