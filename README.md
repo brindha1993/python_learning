@@ -43,6 +43,7 @@ These tasks are fundamental for efficient data analysis using Pandas.
 - `BeautifulSoup` from `bs4`: For parsing HTML.
 - `csv`: For handling CSV files.
 - `pandas`: For handling and manipulating data structures.
+- `numpy`: For performing numerical operations and handling arrays.
 
 ## Acknowledgments  
 Some of the datasets used in this project are sourced from **GitHub repositories** and the **IBM Courses**.  
